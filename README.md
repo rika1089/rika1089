@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="700">
 
 # 💫 About Me:
-### Hi, I'm Sreekar <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="30"> <br><br>I'm a CSE (AI & Data Science) undergraduate at SASTRA Deemed University, building AI-native <br>systems end-to-end — from multi-agent orchestration to RAG pipelines to production deployment.<br><br>🔭 **Currently building:** production-grade agentic AI systems — multi-agent scheduling, <br>RAG pipelines, and evaluation frameworks for LLM-driven applications<br>
+### Hi, I'm Sreekar <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="100"> <br><br>I'm a CSE (AI & Data Science) undergraduate at SASTRA Deemed University, building AI-native <br>systems end-to-end — from multi-agent orchestration to RAG pipelines to production deployment.<br><br>🔭 **Currently building:** production-grade agentic AI systems — multi-agent scheduling, <br>RAG pipelines, and evaluation frameworks for LLM-driven applications<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sreekar Mothukuru) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sreekar M) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AnyHistpry6571) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rika_1089) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msreekarin@gmail.com) 
