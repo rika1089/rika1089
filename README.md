@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="200">
 
 # 💫 About Me:
 ### Hi, I'm Sreekar <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="100"> <br><br>I'm a CSE (AI & Data Science) undergraduate at SASTRA Deemed University, building AI-native <br>systems end-to-end — from multi-agent orchestration to RAG pipelines to production deployment.<br><br>🔭 **Currently building:** production-grade agentic AI systems — multi-agent scheduling, <br>RAG pipelines, and evaluation frameworks for LLM-driven applications<br>
