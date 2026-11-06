@@ -12,6 +12,11 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=rika1089&theme=dark&hide_border=false)<br/>
 
+## 🐟 Git Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="280" alt="My Git Koi"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
