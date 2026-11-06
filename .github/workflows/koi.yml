@@ -1,0 +1,30 @@
+name: Update Git Koi
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          output-dir: koi
+
+      - name: Commit Koi
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add koi/
+          git commit -m "Update koi" || exit 0
+          git push
